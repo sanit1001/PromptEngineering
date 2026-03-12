@@ -1,0 +1,28 @@
+1. The Complete Presentation Blueprint  
+
+“Act as a professional presentation consultant. Create a complete presentation blueprint for [topic]. Define the objective, target audience, key message, slide flow, and number of slides. Ensure the structure is logical, engaging, and professional.”
+2. The Ready-to-Use Slide Deck Generator
+
+“Act as a world-class presentation designer. Create a complete slide-by-slide presentation for [topic] with titles, bullet points, and speaker notes. The slides should be clear, concise, persuasive, and suitable for a professional audience.”
+3. The Storytelling Presentation Builder
+
+“Act as a storytelling expert and presentation strategist. Turn [topic] into a compelling narrative presentation. Structure the slides using a storytelling framework (problem → tension → solution → impact). Include engaging slide titles and clear key points.”
+4. The TED-Style Presentation Creator
+
+“Act as a TED Talk presentation coach. Create a powerful presentation for [topic] using storytelling, emotional hooks, and memorable takeaways. Each slide should contain minimal text and a strong message designed to captivate an audience.”
+5. The Visual Presentation Designer
+
+“Act as a presentation design expert. Create a presentation outline for [topic] and suggest visual ideas for every slide (charts, diagrams, illustrations, comparisons, icons). Focus on making the presentation visually engaging and easy to understand.”
+6. The Persuasive Pitch Deck Creator
+
+“Act as a startup pitch deck expert. Create a high-impact pitch presentation about [topic/company/idea] including slides for problem, solution, market opportunity, product, business model, traction, and conclusion. Keep the messaging sharp and persuasive.”
+7. The Data-Driven Presentation Builder
+
+“Act as a data visualization expert. Create a data-driven presentation about [topic]. Suggest the best types of charts, graphs, and visual explanations for each slide so complex information becomes easy to understand.”
+8. The Presentation Polisher
+
+“Act as a senior presentation consultant. I will provide a presentation topic: [topic]. Create a polished slide structure with powerful slide titles, concise bullet points, and clear speaker notes to make the presentation impactful and memorable.”
+💡 Pro tip:
+Claude works extremely well if you add this line at the end of the prompt:
+
+“Keep slides concise, professional, and optimized for PowerPoint or Google Slides.”
